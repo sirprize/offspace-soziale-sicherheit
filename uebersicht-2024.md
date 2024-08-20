@@ -70,14 +70,14 @@ __= CHF 600 (bei 40-jähriger/m Künstler/in)__
 
 __AHV/IV/EO/ALV Arbeitnehmeranteil__
 
-<code>5.3% (AHV/IV/EO)
+`5.3% (AHV/IV/EO)
 + 1.1% (ALV)
-= 6.4%</code>
+= 6.4%`
 
 __Bruttolohn für AHV-Lohnbescheinigung und Lohnausweis__
 
-<code>CHF 500 (ausbezahlter Nettolohn = 100% - 6.4% = 93.6%)
-= CHF 534.20 (500 : 93.6 x 100, gerundet)</code>
+`CHF 500 (ausbezahlter Nettolohn = 100% - 6.4% = 93.6%)
+= CHF 534.20 (500 : 93.6 x 100, gerundet)`
 
 __Budgetierung Lohn und Sozialbeiträge__
 
