@@ -2,9 +2,9 @@
 
 Dies ist eine Übersicht für Offspace-Vereine zur Entlöhnung ihrer selbstständig und unselbstständig erwerbenden Kunstschaffenden. Die angegebenen Beitragssätze entsprechen dem Stand 2024
 
-## Soziale Sicherheit von Kulturschaffenden
+## Soziale Sicherheit von Kunstschaffenden
 
-Insbesondere mit dem Erhalt von Fördergeldern verpflichtet sich der Offspace-Verein, die notwendigen Abgaben auf Löhnen von Angestellten zu leisten und selbstständig erwerbende Kulturschaffende auf ihre Abgabepflicht gegenüber Sozialversicherungen hinzuweisen.
+Insbesondere mit dem Erhalt von Fördergeldern verpflichtet sich der Offspace-Verein, die notwendigen Abgaben auf Löhnen von Angestellten zu leisten und selbstständig erwerbende Kunstschaffende auf ihre Abgabepflicht gegenüber Sozialversicherungen hinzuweisen.
 
 Die Sozialversicherungen in der Schweiz sorgen für einen umfassenden sozialen Schutz der Bevölkerung. Der bedeutendste Teil dieses Sozialsystems ist die Altersvorsorge. Wenn im Alter das Erwerbseinkommen wegfällt, sorgt sie dafür, dass wir unser Leben finanziell unabhängig und ohne existenzielle Not weiterführen können. Die Altersvorsorge besteht aus drei unterschiedlichen Säulen, die unterschiedliche Aufgaben haben:
 
@@ -24,7 +24,7 @@ Mit der freiwilligen privaten Vorsorge der 3. Säule können sich Erwerbstätige
 
 1. Vereine im Kanton Bern müssen sich bei der kantonalen Steuerbehörde anmelden. Nach der Anmeldung werden dem Verein die Steuerunterlagen zugestellt.
 1. Als Arbeitgeber muss der Verein eine Unfallversicherung abschliessen (kostet ca CHF 100 pro Jahr)
-1. Der Verein muss sich bei der AHV als Arbeitgeber anmelden. Nach der Anmeldung wird dem Verein das Lohnbescheinigungsformular zugestellt. Für Vereine ist grundsätzlich auch das vereinfachte Abrechnungsverfahren der AHV möglich. Zusätzlich zur AHV/IV/EO wird bei diesem Verfahren die Quellensteuer abgerechnet und dem Verein mit 5% der Lohnsumme in Rechnung gestellt. Das vereinfachte Verfahren macht nur Sinn wenn der Offspace Live-Performances irgendwelcher Art mit ausländischen Kulturschaffenden durchführt (siehe Abschnitt "Quellensteuer").
+1. Der Verein muss sich bei der AHV als Arbeitgeber anmelden. Nach der Anmeldung wird dem Verein das Lohnbescheinigungsformular zugestellt. Für Vereine ist grundsätzlich auch das vereinfachte Abrechnungsverfahren der AHV möglich. Zusätzlich zur AHV/IV/EO wird bei diesem Verfahren die Quellensteuer abgerechnet und dem Verein mit 5% der Lohnsumme in Rechnung gestellt. Das vereinfachte Verfahren macht nur Sinn wenn der Offspace Live-Performances irgendwelcher Art mit ausländischen Kunstschaffenden durchführt (siehe Abschnitt "Quellensteuer").
 
 ## Honorare
 
@@ -32,7 +32,7 @@ Untenstehende Beispiele basieren auf dem "Ausstellungshonorar in kleinen Ausstel
 
 ## Arbeitsverhältnisse
 
-Je nach Status der/des Kulturschaffenden, tritt der Offspace als Arbeitgeber oder Auftraggeber auf:
+Je nach Status der/des Kunstschaffenden, tritt der Offspace als Arbeitgeber oder Auftraggeber auf:
 
 1. Schweizer Kunstschaffende/r selbstständig erwerbend
 1. Schweizer Kunstschaffende/r unselbständig erwerbend
@@ -47,8 +47,8 @@ Ausländische Kunstschaffende haben grundsätzlich Anrecht auf die gleiche Entsc
 
 ### 1. Schweizer Kunstschaffende/r selbstständig erwerbend
 
-+ Die/der Kulturschaffende/r muss dem Offspace den Nachweis der Selbstständigkeit als Künstler/in vorlegen. Die/der Kulturschaffende erhält diesen Nachweis bei ihrer/seiner Ausgleichskasse.
-+ Der Offspace bezahlt der/dem Kulturschaffenden das Honorar plus AHV/IV/EO-Beitrag plus BVG oder 3. Säule Beitrag (siehe unten).
++ Die/der Kunstschaffende/r muss dem Offspace den Nachweis der Selbstständigkeit als Künstler/in vorlegen. Die/der Kunstschaffende erhält diesen Nachweis bei ihrer/seiner Ausgleichskasse.
++ Der Offspace bezahlt der/dem Kunstschaffenden das Honorar plus AHV/IV/EO-Beitrag plus BVG oder 3. Säule Beitrag (siehe unten).
 + Die/der Kunstschaffende muss darauf hingewiesen werden, dass sie/er das Honorar mit der AHV abrechnen muss und den zusätzlich ausbezahlten Betrag in ihr/sein BVG oder auf ein Säule 3a Konto einzahlen soll.
 
 __Berechnungsbeispiel__
@@ -63,16 +63,18 @@ __= CHF 600 (bei 40-jähriger/m Künstler/in)__
 ### 2. Schweizer Kunstschaffende/r unselbständig erwerbend
 
 + Der ausbezahlte Lohn ist CHF 500. Dies ist der Nettolohn.
-+ Der Offspace füllt am Ende des Kalenderjahres die Liste in der AHV-Lohnbescheinigung aus mit allen abzurechnenden Kulturschaffenden. Zum Ausfüllen der Bescheinigung müssen die Nettolöhne in Bruttolöhne umgerechnet werden (siehe unten).
-+ Der Offspace erstellt die Lohnausweise (elohnausweis-ssk.ch) und schickt sie jeder/jedem Kulturschaffenden in zweifacher Ausführung. Für Kulturschaffende mit Wohnsitz im Kanton Bern ist zudem der kantonalen Steuerbehörde ein Exemplar zuzustellen.
++ Der Offspace füllt am Ende des Kalenderjahres die Liste in der AHV-Lohnbescheinigung aus mit allen abzurechnenden Kunstschaffenden. Zum Ausfüllen der Bescheinigung müssen die Nettolöhne in Bruttolöhne umgerechnet werden (siehe unten).
++ Der Offspace erstellt die Lohnausweise (elohnausweis-ssk.ch) und schickt sie jeder/jedem Kunstschaffenden in zweifacher Ausführung. Für Kunstschaffende mit Wohnsitz im Kanton Bern ist zudem der kantonalen Steuerbehörde ein Exemplar zuzustellen.
 + Die AHV stellt Rechnung ca im Februar
-+ Auf Wunsch der/des Kulturschaffenden wird der BVG-Betrag direkt an deren/dessen Vorsorgeeinrichtung überwiesen oder in entsprechender Höhe dem Lohn hinzugerechnet mit dem Hinweis, dass sie/er den Betrag in ihr/sein BVG oder auf ein Säule 3a Konto einzahlen soll.
++ Auf Wunsch der/des Kunstschaffenden wird der BVG-Betrag direkt an deren/dessen Vorsorgeeinrichtung überwiesen oder in entsprechender Höhe dem Lohn hinzugerechnet mit dem Hinweis, dass sie/er den Betrag in ihr/sein BVG oder auf ein Säule 3a Konto einzahlen soll.
 
 __AHV/IV/EO/ALV Arbeitnehmeranteil__
 
+<code>
 5.3% (AHV/IV/EO)
 + 1.1% (ALV)
-__= 6.4%__
+= 6.4%
+</code>
 
 __Bruttolohn für AHV-Lohnbescheinigung und Lohnausweis__
 
@@ -88,7 +90,7 @@ CHF 500 (ausbezahlter Nettolohn)
 + CHF 11.75 (2.2% ALV Arbeitnehmeranteil plus Arbeitgeberanteil, gerundet)
 + CHF 8.00 (1.5% FAK, nur Arbeitgeber, gerundet)
 + CHF 2.85 (5% Verwaltungskostenanteil von CHF 56.65 AHV/IV/EO-Beitrag, gerundet)
-+ CHF 53.40 (10% BVG-Beitrag für 40-jährige/n Kulturschaffende/n, gerundet)
++ CHF 53.40 (10% BVG-Beitrag für 40-jährige/n Kunstschaffende/n, gerundet)
 __= CHF 632.65__
 
 <!--BREAK-->
@@ -98,8 +100,8 @@ __= CHF 632.65__
 __Voraussetzungen__
 
 + Eine Erwerbstätigkeit von weniger als drei Monaten erfordert keine Arbeitsbewilligung, muss aber mit dem Meldeformular für selbstständige Dienstleistungserbringer aus einem EU/EFTAMitgliedstaat gemeldet werden (https://www.sem.admin.ch/sem/de/home/themen/fza_schweiz-eu-efta/meldeverfahren.html)
-+ Der Offspace erstellt der/dem Kulturschaffenden eine schriftliche Bestätigung für die in der Schweiz stattfindende Zusammenarbeit.
-+ Die/der Kulturschaffende muss den Nachweis erbringen, dass sie/er in ihrem/seinem Herkunftsland Sozialabgaben abrechnet (Formular A1 / Certificate of Coverage, von der Sozialversicherung des Herkunftslandes unterzeichnet)
++ Der Offspace erstellt der/dem Kunstschaffenden eine schriftliche Bestätigung für die in der Schweiz stattfindende Zusammenarbeit.
++ Die/der Kunstschaffende muss den Nachweis erbringen, dass sie/er in ihrem/seinem Herkunftsland Sozialabgaben abrechnet (Formular A1 / Certificate of Coverage, von der Sozialversicherung des Herkunftslandes unterzeichnet)
 
 __Honorar__
 
@@ -110,7 +112,7 @@ __Honorar__
 __Voraussetzungen__
 
 + Eine Erwerbstätigkeit von weniger als drei Monaten erfordert keine Arbeitsbewilligung, muss aber mit Meldeformular für Arbeitnehmende aus einem EU/EFTA-Mitgliedstaat mit Stellenantritt bei einem Schweizer Arbeitgeber gemeldet werden (https://www.sem.admin.ch/sem/de/home/themen/fza_schweiz-eu-efta/meldeverfahren.html)
-+ asdf > noch abzuklären welche Angaben benötigt werden weil der Kulturschaffende keine Schweizer AHV-Nummer hat
++ asdf > noch abzuklären welche Angaben benötigt werden weil der Kunstschaffende keine Schweizer AHV-Nummer hat
 
 __Honorar__
 
