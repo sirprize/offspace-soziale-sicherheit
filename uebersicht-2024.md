@@ -96,7 +96,7 @@ CHF 500 (ausbezahlter Nettolohn)
 + CHF 8.00 (1.5% FAK, nur Arbeitgeber, gerundet)
 + CHF 2.85 (5% Verwaltungskostenanteil von CHF 56.65 AHV/IV/EO-Beitrag, gerundet)
 + CHF 53.40 (10% BVG-Beitrag für 40-jährige/n Kunstschaffende/n, gerundet)
-__= CHF 632.65__
+= CHF 632.65
 ```
 
 <!--BREAK-->
