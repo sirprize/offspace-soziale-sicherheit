@@ -53,10 +53,12 @@ Ausländische Kunstschaffende haben grundsätzlich Anrecht auf die gleiche Entsc
 
 __Berechnungsbeispiel__
 
+```
 CHF 500 (Honorar)
 + CHF 50 (10% AHV/IV/EO Beitrag der/des Selbstständigen)
 + CHF 50 (altersabhängiger Beitragssatz der/des Selbstständigen von 7-18% an BVG oder 3. Säule, siehe unten)
-__= CHF 600 (bei 40-jähriger/m Künstler/in)__
+= CHF 600 (bei 40-jähriger/m Künstler/in)
+```
 
 <!--BREAK-->
 
@@ -87,6 +89,7 @@ __Budgetierung Lohn und Sozialbeiträge__
 
 Die Prozentangaben beziehen sich auf den Bruttolohn von CHF 534.20
 
+```
 CHF 500 (ausbezahlter Nettolohn)
 + CHF 56.65 (10.6% AHV/IV/EO Arbeitnehmeranteil plus Arbeitgeberanteil, gerundet)
 + CHF 11.75 (2.2% ALV Arbeitnehmeranteil plus Arbeitgeberanteil, gerundet)
@@ -94,6 +97,7 @@ CHF 500 (ausbezahlter Nettolohn)
 + CHF 2.85 (5% Verwaltungskostenanteil von CHF 56.65 AHV/IV/EO-Beitrag, gerundet)
 + CHF 53.40 (10% BVG-Beitrag für 40-jährige/n Kunstschaffende/n, gerundet)
 __= CHF 632.65__
+```
 
 <!--BREAK-->
 
@@ -153,28 +157,36 @@ __Beitragssätze für unselbstständig Erwerbstätige__
 
 AHV, IV, EO (Alters- und Hinterlassenenversicherung, Invalidenversicherung, Erwerbsersatzordnung)
 
-+ Arbeitnehmer: 5.3%
-+ Arbeitgeber: 5.3% + Verwaltungskosten (5% vom AHV/IV/EO-Betrag)
-+ Total: 10.6%
+```
+Arbeitnehmer: 5.3%
+Arbeitgeber: 5.3% + Verwaltungskosten (5% vom AHV/IV/EO-Betrag)
+Total: 10.6%
+```
 
 ALV (Arbeitslosenversicherung)
 
-+ Arbeitnehmer: 1.1%
-+ Arbeitgeber: 1.1%
-+ Total: 2.2%
+```
+Arbeitnehmer: 1.1%
+Arbeitgeber: 1.1%
+Total: 2.2%
+```
 
 FAK (Familienausgleichskasse)
 
-+ Arbeitnehmer: 0%
-+ Arbeitgeber: 1.5%
-+ Total: 1.5%
+```
+Arbeitnehmer: 0%
+Arbeitgeber: 1.5%
+Total: 1.5%
+```
 
 __Beitragssätze für selbstständig Erwerbstätige__
 
-+ AHV: 8.1%
-+ IV: 1.4%
-+ EO: 0.5%
-+ Total: 10%
+```
+AHV: 8.1%
+IV: 1.4%
+EO: 0.5%
+Total: 10%
+```
 
 Für Jahreseinkommen von weniger als 58'800 Franken gilt ein tieferer AHV/IV/EO-Beitragssatz.
 
@@ -182,10 +194,12 @@ Für Jahreseinkommen von weniger als 58'800 Franken gilt ein tieferer AHV/IV/EO-
 
 Die Beitragssätze sind abhängig vom Alter:
 
-25 - 34 = 7%
-35 - 44 = 10%
-45 - 54 = 15%
-55 - 65 = 18%
+```
+25 bis 34 Jahre = 7%
+35 bis 44 Jahre = 10%
+45 bis 54 Jahre = 15%
+55 bis 65 Jahre = 18%
+```
 
 <!--BREAK-->
 
