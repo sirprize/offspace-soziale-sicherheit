@@ -4,7 +4,7 @@ Dies ist eine Übersicht für Offspace-Vereine zur Entlöhnung ihrer selbststän
 
 ## Soziale Sicherheit von Kunstschaffenden
 
-Insbesondere mit dem Erhalt von Fördergeldern verpflichtet sich der Offspace-Verein, die notwendigen Abgaben auf Löhnen von Angestellten zu leisten und selbstständig erwerbende Kunstschaffende auf ihre Abgabepflicht gegenüber Sozialversicherungen hinzuweisen.
+Insbesondere mit dem Erhalt von Fördergeldern verpflichtet sich der Offspace-Verein, die notwendigen Abgaben auf Löhnen von Kunstschaffenden zu leisten und selbstständig erwerbende Kunstschaffende auf ihre Abgabepflicht gegenüber Sozialversicherungen hinzuweisen.
 
 Die Sozialversicherungen in der Schweiz sorgen für einen umfassenden sozialen Schutz der Bevölkerung. Der bedeutendste Teil dieses Sozialsystems ist die Altersvorsorge. Wenn im Alter das Erwerbseinkommen wegfällt, sorgt sie dafür, dass wir unser Leben finanziell unabhängig und ohne existenzielle Not weiterführen können. Die Altersvorsorge besteht aus drei unterschiedlichen Säulen, die unterschiedliche Aufgaben haben:
 
@@ -210,6 +210,8 @@ Der Quellensteuer unterliegen alle selbstständig oder unselbstständig erwerbst
 Fazit: Insofern der Künstler seine Werke an einer Ausstellung präsentiert und keine Performance macht, muss der Offspace keine Quellensteuer abrechnen.
 
 ---
+
+Alle Angaben ohne Gewähr. Bitte das geplante Vorgehen durche eine Fachperson prüfen und bestätigen lassen!
 
 Author: Christian Högl @ Kunstraum Dreiviertel (dreiviertel.ch)
 Repo: https://github.com/sirprize/offspace-soziale-sicherheit
