@@ -53,7 +53,7 @@ Ausländische Kunstschaffende haben grundsätzlich Anrecht auf die gleiche Entsc
 
 __Berechnungsbeispiel__
 
-```
+```php
 CHF 500 (Honorar)
 + CHF 50 (10% AHV/IV/EO Beitrag der/des Selbstständigen)
 + CHF 50 (altersabhängiger Beitragssatz der/des Selbstständigen von 7-18% an BVG oder 3. Säule, siehe unten)
@@ -72,7 +72,7 @@ CHF 500 (Honorar)
 
 __AHV/IV/EO/ALV Arbeitnehmeranteil__
 
-```
+```php
 5.3% (AHV/IV/EO)
 + 1.1% (ALV)
 = 6.4%
@@ -80,7 +80,7 @@ __AHV/IV/EO/ALV Arbeitnehmeranteil__
 
 __Bruttolohn für AHV-Lohnbescheinigung und Lohnausweis__
 
-```
+```php
 CHF 500 (ausbezahlter Nettolohn = 100% - 6.4% = 93.6%)
 = CHF 534.20 (500 : 93.6 x 100, gerundet)
 ```
@@ -89,7 +89,7 @@ __Budgetierung Lohn und Sozialbeiträge__
 
 Die Prozentangaben beziehen sich auf den Bruttolohn von CHF 534.20
 
-```
+```php
 CHF 500 (ausbezahlter Nettolohn)
 + CHF 56.65 (10.6% AHV/IV/EO Arbeitnehmeranteil plus Arbeitgeberanteil, gerundet)
 + CHF 11.75 (2.2% ALV Arbeitnehmeranteil plus Arbeitgeberanteil, gerundet)
@@ -157,7 +157,7 @@ __Beitragssätze für unselbstständig Erwerbstätige__
 
 AHV, IV, EO (Alters- und Hinterlassenenversicherung, Invalidenversicherung, Erwerbsersatzordnung)
 
-```
+```php
 Arbeitnehmer: 5.3%
 Arbeitgeber: 5.3% + Verwaltungskosten (5% vom AHV/IV/EO-Betrag)
 Total: 10.6%
@@ -165,7 +165,7 @@ Total: 10.6%
 
 ALV (Arbeitslosenversicherung)
 
-```
+```php
 Arbeitnehmer: 1.1%
 Arbeitgeber: 1.1%
 Total: 2.2%
@@ -173,7 +173,7 @@ Total: 2.2%
 
 FAK (Familienausgleichskasse)
 
-```
+```php
 Arbeitnehmer: 0%
 Arbeitgeber: 1.5%
 Total: 1.5%
@@ -181,7 +181,7 @@ Total: 1.5%
 
 __Beitragssätze für selbstständig Erwerbstätige__
 
-```
+```php
 AHV: 8.1%
 IV: 1.4%
 EO: 0.5%
@@ -194,7 +194,7 @@ Für Jahreseinkommen von weniger als 58'800 Franken gilt ein tieferer AHV/IV/EO-
 
 Die Beitragssätze sind abhängig vom Alter:
 
-```
+```php
 25 bis 34 Jahre = 7%
 35 bis 44 Jahre = 10%
 45 bis 54 Jahre = 15%
